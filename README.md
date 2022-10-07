@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tukei-david
+- 👀 I’m interested in Learning, Developing and Repeat
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on On any Javascript Frameworks Jobs
+- 📫 Reach me: dtukei831@gamil.com
