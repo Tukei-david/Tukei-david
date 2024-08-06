@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tukei-david
 - 👀 Learning and Developing
 - 🌱 Javascript, Typescript
-- 💞️ I’m looking to collaborate on any Javascript Frameworks
+- 💞️ I’m looking forward to any collaboration
 - 📫 Reach me: dtukei831@gmail.com
